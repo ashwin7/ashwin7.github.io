@@ -1,1 +1,1 @@
-var _0x13f2=["\x66\x6C\x69\x70\x49\x6E\x58","\x7C","\x23\x6A\x73\x2D\x72\x6F\x74\x61\x74\x69\x6E\x67"];$(function(){$(_0x13f2[2]).Morphext({animation:_0x13f2[0],separator:_0x13f2[1],speed:2000})});
+var _0x2e7c=["\x74\x61\x64\x61","\x7C","\x23\x6A\x73\x2D\x72\x6F\x74\x61\x74\x69\x6E\x67"];$(function(){$(_0x2e7c[2]).Morphext({animation:_0x2e7c[0],separator:_0x2e7c[1],speed:2000})});
